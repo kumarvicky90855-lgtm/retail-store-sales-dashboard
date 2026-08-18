@@ -2,7 +2,6 @@
 
 Analysis of retail store sales data to identify trends, top categories, and revenue insights using Excel and Power Query.
 
-## Dashboard
 ![Preview Dashboard](retail_store_sales_dashboard_screenshot.png)
 
 The interactive dashboard provides a clear view of:
