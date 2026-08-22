@@ -28,7 +28,7 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 - `01_retail_store_sales_Dataset.csv` — raw dataset
 - `02_Retail_Store_Sales_Dashboard.xlsx` — interactive Excel dashboard
 - `03_Retail_Store_Sales_Business_Analysis.docx` — detailed business analysis
-- `04_Retail_Store_Sales_Business_Report.docx` — full business report summarizing insights, trends, and recommendations
+- `04_Retail_Store_Sales_Business_Report.docx` — final project report
 
 - ## Methodology
 - Collected data from Kaggle (Retail Store Sales — Dirty for Data Cleaning) and imported into Excel via Power Query for a refreshable, live connection.
